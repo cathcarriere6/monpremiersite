@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+        <title>Mon premier site</title>
+</head>
+<body>
+<h1>Mon premier site</h1>       
+<p> Bienvenue sur mon premier site Internet. Je suis heureuse de vous y accueillir. </p>
+<p>Je m'appelle Catherine et j'habite à Gatineau. </p>
+    <img src="mer-bleue.png" alt="Mer bleue est un marais remplis d'eau.">
+    <h2>Mes sites Internet de nouvelles préférés :</h2>
+    <ul>
+        <li><a href="https://ici.radio-canada.ca/"target<"_blanc">Radio-Canada</a></li>
+        <li><a href="https://www.ledroit.com/"target="_blank">Le droit </a></li>
+    
+    </ul>
+</body>
+</html> 
